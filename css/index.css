@@ -1,12 +1,33 @@
-
 /* create 3d effect and new style */
 
-.name{
-    color: black;
-    font-size: 1.5rem;
+/* navigation section start*/
+.my-nav {
+    background-color: #972fff;   
+}
+.my-nav-heading {      
+    width: 50%;
+}
+.f-name{
+    color: white;
+    font-size: 1.8rem;
     font-weight: 400px;
 }
-.surname-section{
-    font-size: 1.5rem;
-    color: green;
+.my-nav-link{
+    width: 20%;
+    font-size: 1.2rem;
+    color: white;
 }
+.nav-sub-link{
+    background-color: orange;
+}
+/* navigation section end*/
+/* media queries */
+/* 
+Break-points:
+    xs: 0,
+    sm: 576px,
+    md: 768px,
+    lg: 992px,
+    xl: 1200px,
+    xxl: 1400px 
+*/
