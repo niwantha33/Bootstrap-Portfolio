@@ -45,7 +45,7 @@ I also installed jQuery and Popper.js, as they are required for some of Bootstra
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js"
         integrity="sha384-+sLIOodYLS7CIrQpBjl+C7nPvqq+FbNUBDunl/OZv93DB7Ln/533i8e/mZXLi/P+"
         crossorigin="anonymous"></script>
-        ```
+```
 
 
 I used Visual Studio Code as my text editor and set up a task runner using Live Server to live reloading the browser.
