@@ -10,7 +10,7 @@
 
  One of the challenges I faced while using Bootstrap was making sure the site looked good on different screen sizes. To solve this, I made extensive use of the grid system and made sure to test the site on multiple devices. Overall, I found Bootstrap to be a powerful and easy-to-use framework that helped me build a professional-quality web application in a short amount of time.
 
-![](./images/img-1.png =250x250)
+![image-1](./images/img-1.png =250x250)
 
 [!image](./images/img-2.png)
 
