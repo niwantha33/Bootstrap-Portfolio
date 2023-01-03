@@ -4,6 +4,8 @@
 
 ## Description
 
+ I built a responsive portfolio website using Bootstrap, HTML, CSS, and JavaScript. The website features a clean, modern design and a fully-functional portfolio single webpage. I used the Bootstrap grid system to create a responsive layout that looks great on all devices, and I implemented several Bootstrap components such as navbars, card groups, and models. I also used Bootstrap's JavaScript plugins to add interactivity to the site, such as a navbar button.
+
 
 
 ## Table of Contents
