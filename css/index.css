@@ -2,30 +2,45 @@
 
 /* navigation section start*/
 .my-nav {
-    background-color: #972fff;   
-    color: white;
-}
-.my-nav-heading {      
-    width: 50%;
-}
-.f-name{
-    color: white;
-    font-size: 1.8rem;
-    font-weight: 400px;
-}
-.nav-link{
-    background-color: #972fff;
-    color: white;
+    /* background-color: #972fff; */
+    color: rgb(29, 24, 24);
 }
 
-.my-nav-link{
-    width: 20%;
-    font-size: 1.2rem;
-    color: white;
+.my-nav-heading {
+    width: 50%;
 }
-.nav-sub-link{
+
+.f-name {
+    color: rgb(40, 38, 38);
+    font-size: 2rem;
+    /* border: 2px solid black; */
+
+}
+.nav-link {
+    /* background-color: #972fff; */
+    /* color: white; */
+    font-size: 1.5rem;
+   
+    /* border: 5px solid cornflowerblue; */
+    padding: 10px;
+    margin: 10px;
+    
+}
+/* 
+.my-nav-link {
+    width: 20%;
+    font-size: 1.5rem;
+    color: white;
+} */
+
+.nav-sub-link {
     background-color: orange;
 }
+.my-text-size{
+
+    font-size: 1.4rem;
+}
+
 /* navigation section end*/
 /* media queries */
 /* 
@@ -37,3 +52,10 @@ Break-points:
     xl: 1200px,
     xxl: 1400px 
 */
+/* button on the jumbotron */
+
+
+.my-aboutme-row
+{
+    border-left: 3px solid orangered;
+}
