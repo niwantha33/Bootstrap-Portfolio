@@ -16,16 +16,18 @@
     /* border: 2px solid black; */
 
 }
+
 .nav-link {
     /* background-color: #972fff; */
     /* color: white; */
     font-size: 1.5rem;
-   
+
     /* border: 5px solid cornflowerblue; */
     padding: 10px;
     margin: 10px;
-    
+
 }
+
 /* 
 .my-nav-link {
     width: 20%;
@@ -36,7 +38,8 @@
 .nav-sub-link {
     background-color: orange;
 }
-.my-text-size{
+
+.my-text-size {
 
     font-size: 1.4rem;
 }
@@ -55,35 +58,63 @@ Break-points:
 /* button on the jumbotron */
 
 
-.my-aboutme-row
-{
+.my-aboutme-row {
     border-left: 3px solid orangered;
 }
 
-.my-work-row{
+.my-work-row {
     margin-top: 10px;
     border-left: 3px solid orangered;
 
 }
-.my-text-size
-{
+
+.article-row-work-card-2 {    
+    margin-bottom: 15px;
+    margin-left: 5px;
+    margin-right: 5px;   
+}
+.card img{
+    height: 230px;
+}
+.my-text-size {
     font-size: 1.4rem;
 }
-.my-footer
-{
-    margin-top:15px;
-    border-left: 3px solid orange; 
 
+.my-footer-row {
+    margin-top: 15px;
+    margin-right:0px;
+    margin-left: 0px;
+    font-size: 1.2rem;
 }
 
-.contact-list{
-    list-style: none;
-    display: flex; 
-    font-size:1.5rem; 
-    
+.my-add-border {   
+    /* margin-left: 15px; */
+    border-left: 3px solid orangered;
 }
 
-.contact-list, a {
-    margin: 10px;
-    padding: 10px;
+.contact-list 
+ul {
+    padding-left: 1em !important;
+    margin-left: 1em;
+}
+
+.contact-list>li{
+    list-style-type: disc !important;
+}
+
+
+@media (max-width: 575.98px) {
+    .my-footer-row {
+        border: none;
+        font-size: 1.2rem;
+        /* margin-left: 15px; */
+    }
+
+    .my-aboutme-row {
+        border: none;
+    }
+
+    .my-work-row {
+        border: none;
+    }
 }

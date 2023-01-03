@@ -10,18 +10,15 @@
 
  One of the challenges I faced while using Bootstrap was making sure the site looked good on different screen sizes. To solve this, I made extensive use of the grid system and made sure to test the site on multiple devices. Overall, I found Bootstrap to be a powerful and easy-to-use framework that helped me build a professional-quality web application in a short amount of time.
 
+[!image](./images/img-1.png)
 
-## Table of Contents
+[!image](./images/img-2.png)
 
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
+[!image](./images/img-3.png)
 ## Installation
 
 I set up the project by creating a new folder and installing Bootstrap using the following code. 
+
 ```
 <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
@@ -47,16 +44,12 @@ I also installed jQuery and Popper.js, as they are required for some of Bootstra
         crossorigin="anonymous"></script>
 ```
 
+I used Visual Studio Code as my text editor and set up a task and used  Live Server to live reloading the browser.
 
-I used Visual Studio Code as my text editor and set up a task runner using Live Server to live reloading the browser.
-
-One of the challenges I faced during the setup was getting the task runner to work properly. I had to troubleshoot some issues with the configuration, but eventually I was able to get it working as expected.
+One of the challenges I faced during the setup was getting the correct sizing of rows and columns to work properly. I had to troubleshoot some issues with the configuration, but eventually I was able to get it working as expected.
 
 Overall, the installation process was straightforward and went smoothly thanks to the clear documentation provided by Bootstrap.
 
-## Usage
-
-![alt text](assets/images/screenshot.png)
 
 ## Credits
 * Resources 
@@ -71,12 +64,6 @@ Overall, the installation process was straightforward and went smoothly thanks t
 +  [Project Site](https://pages.github.com/)
 ---
 
-## License
 
-## Badges
 
-## Features
 
-## How to Contribute
-
-## Tests
