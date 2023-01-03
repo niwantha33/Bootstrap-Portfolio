@@ -10,17 +10,14 @@
 
  One of the challenges I faced while using Bootstrap was making sure the site looked good on different screen sizes. To solve this, I made extensive use of the grid system and made sure to test the site on multiple devices. Overall, I found Bootstrap to be a powerful and easy-to-use framework that helped me build a professional-quality web application in a short amount of time.
 
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/img-1.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+
 
 ![image-1](./images/img-1.png)
 
-[!image](./images/img-2.png)
+![image-2](./images/img-2.png)
 
-[!image](./images/img-3.png)
+![image-3](./images/img-3.png)
+
 ## Installation
 
 I set up the project by creating a new folder and installing Bootstrap using the following code. 
